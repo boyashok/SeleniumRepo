@@ -36,6 +36,7 @@ public class SampleTest {
 	}
 	driver.get(URL);
 	driver.findElement(By.id("user-name")).sendKeys(UN);
+	   //pushed successfully
 
 }
   
